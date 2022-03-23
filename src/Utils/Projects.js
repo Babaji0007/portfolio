@@ -12,7 +12,7 @@ export const projects = [
 	{
 		img: 'https://i.ibb.co/sW3RWVY/snakegoameover.png',
 		title: 'snake Game',
-		des: 'A small snake game',
+		des: 'A small snake game , play with up,down,left & right keys',
 		demo: '',
 		live: 'https://stupefied-fermi-1f2a9c.netlify.app/',
 		gitHub: 'https://github.com/Babaji0007/snakeGame',
