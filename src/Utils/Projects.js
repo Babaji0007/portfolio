@@ -14,7 +14,7 @@ export const projects = [
 		des: 'This project is a complete clone UI of the MonsterIndia website with the functionalities of Searchin Jobs.',
 		demo: '',
 		live: 'https://monster-india-clone.vercel.app/',
-		gitHub: 'https://github.com/itarun1/Monster-India-clone',
+		gitHub: 'https://github.com/Babaji0007/-Monster-India-clone',
 		technologies: ['React Js','JavaScript',"HTML" ,'CSS'],
 	},
 	
