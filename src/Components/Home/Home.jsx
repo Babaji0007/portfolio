@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src='https://i.ibb.co/FHhdcYK/Whats-App-Image-2022-03-20-at-20-48-50.jpg' //my Picture
+						src='https://i.ibb.co/kxTMCQJ/photo6206299567914331687-removebg-preview-removebg-preview-3.jpg' //my Picture
 						alt='Profile pic'
 					/>
 				</div>

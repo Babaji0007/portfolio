@@ -1,4 +1,22 @@
 export const projects = [
+	{
+		img: 'https://i.ibb.co/WVbjrDT/fshop-image.png',
+		title: 'Fshop',
+		des: 'This project is a ecommerce website for buying clothes.',
+		demo: '',
+		live: 'https://fshop-pi.vercel.app/',
+		gitHub: 'https://github.com/Babaji0007/fshop_ecommerce',
+		technologies: ['React Js','Redux','Redux-Thunk','Mongodb','Node-Js',"Express",'JavaScript',"HTML" ,'CSS'],
+	},
+	{
+		img: 'https://user-images.githubusercontent.com/45921293/161429933-174ad69e-5135-4cf5-b1e8-fbbdad0ec0df.PNG',
+		title: 'Monster-India-clone',
+		des: 'This project is a complete clone UI of the MonsterIndia website with the functionalities of Searchin Jobs.',
+		demo: '',
+		live: 'https://monster-india-clone.vercel.app/',
+		gitHub: 'https://github.com/itarun1/Monster-India-clone',
+		technologies: ['React Js','JavaScript',"HTML" ,'CSS'],
+	},
 	
 	{
 		img: 'https://i.ibb.co/5MD3H4p/photo6296325368088473769.png',
@@ -27,31 +45,5 @@ export const projects = [
 		gitHub: 'https://github.com/Babaji0007/weatherapp',
 		technologies: [ 'HTML', 'CSS', "JavaScript"],
 	},
-	// {
-		// 	img: 'https://camo.githubusercontent.com/b7f4aa8c34ddf776dd19b78dc3488456470a73e5026f48784e9e753601468802/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c62507030307771454537386c6f68584d372f67697068792e676966',
-		// 	title: 'Clone of Fitness Blender',
-		// 	des: 'This is a clone of the Fitness Blender website. The clone is complete with a Login page, Sign-in page, Shopping Cart, Wishlist and Calendar Scheduling feature. Following is the link to the clone of the website.',
-		// 	demo: '',
-		// 	live: 'https://anshusagar.github.io/FitnessBlender/',
-		// 	gitHub: 'https://github.com/Anshusagar/FitnessBlender.git',
-		// 	technologies: ['HTML', 'CSS', 'javaScript'],
-		// },
-		// {
-			// 	img: 'https://github.com/mandarsatam/Mailchimp-Clone/blob/master/Snips/Screenshot%20(79).png?raw=true',
-			// 	title: 'Mailchimp Clone',
-			// 	des: 'This is a static clone of a website called Mailchimp. This clone includes landing, pricing, our story, and the resources page.',
-			// 	demo: '',
-			// 	live: 'https://mandarsatam.github.io/Mailchimp-Clone/',
-	// 	gitHub: 'https://github.com/mandarsatam/Mailchimp-Clone',
-	// 	technologies: ['HTML', 'CSS', 'javaScript'],
-	// },
-	// {
-	// 	img: 'https://user-images.githubusercontent.com/86410106/143928012-c66d0c3c-1f94-4894-b1f0-2326be4f3087.png',
-	// 	title: 'Clone of Target.com ',
-	// 	des: 'This is a clone of a US-based e-commerce website for all products built with HTML, CSS, JS. Have features that allow users to sort the product on the basis of price, on the payment page users can apply promo codes',
-	// 	demo: '',
-	// 	live: 'https://pandeypushpendra3.github.io/target/', // deployed link
-	// 	gitHub: 'https://github.com/pandeypushpendra3/target/tree/main',
-	// 	technologies: [ 'HTML', 'CSS', 'javaScript'],
-	// },
+
 ];

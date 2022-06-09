@@ -6,8 +6,7 @@ import styles from './About.module.css';
 const About = () => {
 	const { newTheme } = React.useContext(ThemeContext);
 	const [width] = WindowSize();
-	const img =
-		width < 650
+	const img =	width < 650
 			? 'https://media-exp1.licdn.com/dms/image/C4E03AQHxNBVD4rtsqA/profile-displayphoto-shrink_200_200/0/1644846403098?e=1653523200&v=beta&t=iDkP8SvYxAQxSuUmPiix_Ztjx0gwqUmanaDA1a_sKyM' // my Picture
 			: 'https://www.damiestechnologies.com/img/programmer.gif';
 	return (
@@ -33,7 +32,7 @@ const About = () => {
 					Hello! My name is Rahul Hooda and I enjoy creating things that
 					live on the internet.
 					<br /> Fast Forwarding to today, I built a number of web
-					applications and 3 major projects. Learned a great deal
+					applications and some major projects. Learned a great deal
 					about teamwork, leadership, and communication. After months
 					of rigorous training, here I am
 					<span style={{ color: `#00a0a0` }}>
